@@ -7,7 +7,7 @@ void setup() {
 void draw() {
   background(255);
   fill(mouseY);
-  stroke(255);
+  stroke(0);
   ellipse(width/2, height/2, 16, 16);
 
 }
